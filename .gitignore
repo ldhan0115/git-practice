@@ -1,3 +1,4 @@
 dist/
 config.py
 *secret*
+keys.json
